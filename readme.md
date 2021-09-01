@@ -50,6 +50,7 @@ const YeloApi = require("yeloapi");
 | discordwhois | This endpoints allows you to get information from any discord user |
 | rmeme | This endpoint allows you to get random meme |
 | cryptoprice | This endpoint allows you to get any crypto price in USD |
+| discInvite | This endpoint allows you to get information from any discord invite |
 
 **More information in** [docs](https://docs.yeloapi.ga)
 
