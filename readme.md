@@ -4,7 +4,7 @@ YeloApi is a Multipurpose API to some awesome functions!
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/) to install foobar.
+Use the package manager [npm](https://nodejs.org/) to install yeloapi.
 
 ```bash
 npm i yeloapi
