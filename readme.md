@@ -52,6 +52,7 @@ const YeloApi = require("yeloapi");
 | cryptoprice | This endpoint allows you to get any crypto price in USD |
 | discInvite | This endpoint allows you to get information from any discord invite |
 | discEmoji | This endopoint allows you to get png/gif file from discord emoji with the id | 
+| shortURL | This endpoint allows you to shorten url with is.gd
 
 **More information in** [docs](https://docs.yeloapi.ga)
 
