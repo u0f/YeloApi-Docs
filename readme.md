@@ -47,10 +47,11 @@ const YeloApi = require("yeloapi");
 | ytthumbnail | This endpoint allows you to get the thumbnail from youtube video in different resolutions |
 | genpass | This endpoint allows you to get random password/string with custom length |
 | nhentai | This endpoint allows you to get doujin information from nhentai.to |
-| discordwhois | This endpoints allows you to get information from any discord user |
+| discWhois | This endpoints allows you to get information from any discord user |
 | rmeme | This endpoint allows you to get random meme |
 | cryptoprice | This endpoint allows you to get any crypto price in USD |
 | discInvite | This endpoint allows you to get information from any discord invite |
+| discEmoji | This endopoint allows you to get png/gif file from discord emoji with the id | 
 
 **More information in** [docs](https://docs.yeloapi.ga)
 
